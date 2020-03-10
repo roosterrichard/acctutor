@@ -6,7 +6,7 @@ layout: home
 
 If there is a tutor available, a chat box will pop up to the right. To begin,
 enter your information. The next available tutor in your subject will be right
-with you.
+with you. 
 
 To use this service, you must provide your __ACC email address__. The tutor will
 begin a google hangouts session to enable screen sharing and microphone chat.
