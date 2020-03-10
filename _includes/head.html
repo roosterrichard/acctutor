@@ -7,6 +7,19 @@
 {% seo %}
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
+    function updateStatus() {
+        let pageStatus = Tawk_API.getStatus();
+
+        if (pageStatus === "online") {
+            console.log("Ok! It is online!");
+            tutoring = document.getElementById("tutoring-available");
+            tutoring.innerHTML = "<h3>Tutoring is currently <span style=\"color: green; \">available</span>!</h3>";
+        }
+        else if (pageStatus === "away" || pageStatus === "offline") {
+            tutoring = document.getElementById("tutoring-available");
+            tutoring.innerHTML = "<h3>Tutoring is <span style=\"color: red; \">unavailable</span>. Check calendar below.</h3>";
+        }
+    }
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -17,6 +30,10 @@
         s0.parentNode.insertBefore(s1,s0);
         Tawk_API.onLoad = function() {
             Tawk_API.maximize();
+            updateStatus();
+        };
+        Tawk_API.onStatusChange = function(status) {
+            updateStatus();
         }
     })();
 </script>
