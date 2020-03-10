@@ -13,8 +13,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: ACC CS/IT Tutoring
-  tagline: Developer. Designer
+  title: ACC CS/IT Web Tutoring
+  tagline:
   date_format: "%b %-d, %Y"
   style: purple
   showNav: false
@@ -24,7 +24,7 @@ texture:
   social_links:
     twitter: accdistrict
     instagram:  accdistrict
-    linkedIn: in/thelehhman
+    facebook: accdistrict
     rss: rss
  
 
