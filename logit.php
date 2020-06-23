@@ -7,8 +7,7 @@
 <body> 
 
 <?php 
-		echo "<h2>Welcom to the favorites PHP page</h2>";
-		echo "<h3>", date('D-M'), "</h3>";
+
 		
 		$nameErr = $platformErr = $dateErr = $timeErr = $courseErr = $hoursErr = $minutesErr = "";
 		$name = $platform = $date = $time = $course = $hours = $minutes = $comment = "";
