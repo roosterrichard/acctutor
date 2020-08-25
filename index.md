@@ -3,9 +3,7 @@ layout: home
 ---
 
 # Welcome to the ACC CS/IT Tutoring Portal
-
 <div id="tutoring-available"> &nbsp; </div>
-
 If there is a tutor available, a chat box will pop up to the right. To begin,
 enter your information. The next available tutor in your subject will be right
 with you. Please refer below to the list of subjects each tutor is good with and the schedule for days and times.
