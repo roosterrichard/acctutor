@@ -16,7 +16,7 @@ and microphone is encouraged but not required to use this service. To connect fo
 more advanced problems, a tutor will ask to start a google hangout via your ACC
 email address to enable screensharing.
 
-<table style="width: 80%">
+<table style="width: 100%">
 <tr>
 <td><b>Tutor Name</b></td><td><b>Subjects tutored</b></td>
 </tr>
