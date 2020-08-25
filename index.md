@@ -16,6 +16,19 @@ and microphone is encouraged but not required to use this service. To connect fo
 more advanced problems, a tutor will ask to start a google hangout via your ACC
 email address to enable screensharing.
 
+<table style="width: 60%">
+<tr>
+<td><b>Tutor Name</b></td><td><b>Subjects tutored</b></td>
+</tr>
+<tr><td>Winton Haisler</td><td>Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
+<tr><td>Anthony Johnson</td><td>git, C#, JavaScript, Linux, MySQL, HTML, CSS, PHP, Python and C++.</td></tr>
+<tr><td>Cory Munselle</td><td>MS Office, Python, C++, Data Structures, UNIX, Personal Computer Hardware, CompTIA A+</td></tr>
+<tr><td>Derek Ratcliff</td><td>Firewalls and Network Security, Routers, TCP/IP, Novell NetWare</td></tr>
+<tr><td>Michael Harper</td><td>Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
+<tr><td>Alex Carr</td><td>Networking, Routers, Firewalls, TCP/IP, Unix.</td></tr>
+<tr><td>Minghua Liu</td><td>All programming subjects</td></tr>
+<tr><td>Rooster Richard</td><td>All programming subjects</td></tr>
+</table>
 ## Tutoring Schedule
 
 <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=2&amp;bgcolor=%238E24AA&amp;ctz=America%2FChicago&amp;src=Zy5hdXN0aW5jYy5lZHVfdjNtdWJqOW9iMmt1dnRvMjRqamZ0Nmk0bmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E&amp;mode=WEEK&amp;showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showPrint=0&amp;showDate=0&amp;showCalendars=0" style="border-width:0" width="1024" height="600" frameborder="0" scrolling="no"></iframe>
