@@ -6,7 +6,7 @@ layout: home
 <div id="tutoring-available"> &nbsp; </div>
 If there is a tutor available, a chat box will pop up to the right. To begin,
 enter your information. The next available tutor in your subject will be right
-with you. Please refer below to the <a href="#Table>list</a> of subjects each tutor is good with and the schedule for days and times.
+with you. Please refer below to the <a href="#Table">list</a> of subjects each tutor is good with and the schedule for days and times.
 
 To use this service, you must provide your __ACC email address__. A tutor will
 not be able to help you if you do not provide a valid ACC email address. A Webcam
