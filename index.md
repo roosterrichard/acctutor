@@ -22,7 +22,7 @@ email address to enable screensharing.
 
 ## Our Tutors
 
-<table style="width: 950%">
+<table style="width: 80%">
 <tr>
 <td><b>Tutor Name</b></td><td><b>Subjects tutored</b></td>
 </tr>
