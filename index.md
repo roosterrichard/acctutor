@@ -26,10 +26,9 @@ email address to enable screensharing.
 </tr>
 <tr><td>Winton Haisler</td><td>Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
 <tr><td>Anthony Johnson</td><td>git, C#, JavaScript, Linux, MySQL, HTML, CSS, PHP, Python and C++.</td></tr>
-<tr><td>Cory Munselle</td><td>MS Office, Python, C++, Data Structures, UNIX, Personal Computer Hardware, CompTIA A+</td></tr>
+<tr><td>Cory Munselle</td><td>MS Office, Python, C++, Data Structures, UNIX, Racket, basic networking, Personal Computer Hardware, CompTIA A+</td></tr>
 <tr><td>Derek Ratcliff</td><td>Firewalls and Network Security, Routers, TCP/IP, Novell NetWare</td></tr>
 <tr><td>Michael Harper</td><td>Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
-<tr><td>Alex Carr</td><td>Networking, Routers, Firewalls, TCP/IP, Unix.</td></tr>
 <tr><td>Masood Salami</td><td>Office, Python</td></tr>
 <tr><td>Minghua Liu</td><td>All programming subjects</td></tr>
 <tr><td>Rooster Richard</td><td>All programming subjects</td></tr>
