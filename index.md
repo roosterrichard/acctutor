@@ -11,7 +11,7 @@ with you. Please refer below to the <a href="#Table">list</a> of subjects each t
 To use this service, you must provide your __ACC email address__. A tutor will
 not be able to help you if you do not provide a valid ACC email address. A Webcam
 and microphone is encouraged but not required to use this service. To connect for
-more advanced problems, a tutor will ask to start a google hangout via your ACC
+more advanced problems, a tutor will ask to start a google Meet session via your ACC
 email address to enable screensharing.
 
 ## Tutoring Schedule
