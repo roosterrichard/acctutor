@@ -12,6 +12,7 @@ To use this service, you must provide your __ACC email address__. A tutor will
 not be able to help you if you do not provide a valid ACC email address. To connect for
 more advanced problems, a tutor will ask to start a google Meet session via your ACC
 email address to enable screensharing.
+
 Note: If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache or try anouther browser.
 
 ## Tutoring Schedule
