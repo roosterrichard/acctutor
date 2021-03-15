@@ -15,7 +15,7 @@ email address to enable screensharing.
 
 <b>Note:</b> During spring break tutoring will be limited due to fewer tutors available.
 
-Note: If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache or try anouther browser.
+<b>Note:</b> If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache or try anouther browser.
 
 ## Tutoring Schedule
 
