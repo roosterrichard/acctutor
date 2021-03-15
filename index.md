@@ -14,6 +14,7 @@ more advanced problems, a tutor will ask to start a google Meet session via your
 email address to enable screensharing.
 
 Note: During spring break tutoring will be limited due to fewer tutors available.
+
 Note: If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache or try anouther browser.
 
 ## Tutoring Schedule
