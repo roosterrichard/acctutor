@@ -9,11 +9,11 @@ enter your information. The next available tutor in your subject will be right
 with you. Please refer below to the <a href="#Table">list</a> of subjects each tutor is good with and the schedule for days and times.
 
 To use this service, you must provide your __ACC email address__. A tutor will
-not be able to help you if you do not provide a valid ACC email address. To connect for
-more advanced problems, a tutor will ask to start a google Meet session via your ACC
-email address to enable screensharing.
+not be able to help you if you do not provide a valid ACC email address. 
+Due to volume of students, we do not set appointments. 
+This is a first come first serve system where the average wait time is < 3 minutes.
 
-<b>Note:</b> During spring break tutoring will be limited due to fewer tutors available.
+<b>Note:</b> Be advised, not all tutors are avle to screenshare so please be patient.
 
 <b>Note:</b> If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache or try anouther browser.
 
