@@ -13,7 +13,7 @@ not be able to help you if you do not provide a valid ACC email address.
 Due to volume of students, we do not set appointments. 
 This is a first come first serve system where the average wait time is < 3 minutes.
 
-<b>Note:</b> Be advised, not all tutors are avle to screenshare so please be patient.
+<b>Note:</b> Be advised, not all tutors are available to screenshare so please be patient.
 
 <b>Note:</b> If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache or try anouther browser.
 
