@@ -15,7 +15,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 <b>Note:</b> Be advised, not all tutors are available to screenshare so please be patient.
 
-<b>Note:</b> If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache or try anouther browser.
+<b>Note:</b> If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache, try anouther browser, or check if your antimalware is blocking the pop up.
 
 ## Tutoring Schedule
 
