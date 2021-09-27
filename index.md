@@ -21,6 +21,19 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=2&amp;bgcolor=%238E24AA&amp;ctz=America%2FChicago&amp;src=Zy5hdXN0aW5jYy5lZHVfdjNtdWJqOW9iMmt1dnRvMjRqamZ0Nmk0bmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E&amp;mode=WEEK&amp;showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showPrint=0&amp;showDate=0&amp;showCalendars=0" style="border-width:0" width="1024" height="600" frameborder="0" scrolling="no"></iframe>
 
+## On Campus in Person Tutoring
+
+<table id="Table" style="width: 80%">
+<tr>
+<td><b>Campus</b></td><td><b>Days, Times, and Subjects tutored</b></td>
+</tr>
+<tr><td>NorthRidge Campus</td><td>Winton Haisler Monday 12-6 / Tuesday 3-6  Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
+<tr><td>San Gabriel Campus</td><td>Anthony Johnson Wednesday 8-11am / Thursday 8-11am  git, C#, JavaScript, Linux, MySQL, HTML, CSS, PHP, Python and C++.</td></tr>
+<tr><td>Round Rock Campus</td><td>Michael Harper Tue - Thu: 10am-3pm, Fri: 10am-2pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
+<tr><td>Highland Campus</td><td>Derek Ratcliff Wed. 12 - 6pm. Firewalls and Network Security, Routers, TCP/IP, Novell NetWare</td></tr>
+<tr><td>Highland Campus</td><td>Rooster Richard Tue. 9 - 5. All programming subjects</td></tr>
+</table>
+
 ## Our Tutors
 
 <table id="Table" style="width: 80%">
