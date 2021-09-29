@@ -46,6 +46,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr><td>Derek Ratcliff</td><td>Firewalls and Network Security, Routers, TCP/IP, Novell NetWare</td></tr>
 <tr><td>Michael Harper</td><td>Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
 <tr><td>Masood Salami</td><td>Office, Python</td></tr>
+<tr><td>Michael Franklin</td><td>C#, C++, Java, MS Office, Html, CSS, Racket, program fundamentals, SQL, Android</td></tr>
 <tr><td>Minghua Liu</td><td>All programming subjects</td></tr>
 <tr><td>Rooster Richard</td><td>All programming subjects</td></tr>
 </table>
