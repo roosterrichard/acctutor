@@ -8,7 +8,7 @@ If there is a tutor available, a chat box will pop up to the right. To begin,
 enter your information. The next available tutor in your subject will be right
 with you. Please refer below to the <a href="#Table">list</a> of subjects each tutor is good with and the schedule for days and times.
 
-To use this service, you must provide your __ACC email address__. A tutor will
+To use this service, you must provide your __ACC email address__, Course Number which is 4 letters and 4 numbers only (ex. COSC 1336). A tutor will
 not be able to help you if you do not provide a valid ACC email address. 
 Due to volume of students, we do not set appointments. 
 This is a first come first serve system where the average wait time is < 3 minutes.
