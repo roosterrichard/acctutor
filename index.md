@@ -30,7 +30,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr><td>NorthRidge Campus</td><td>Winton Haisler Monday 11-5 / Wednesday 11-5  Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
 <tr><td>San Gabriel Campus</td><td>Anthony Johnson Wednesday 8-11am / Thursday 8-11am  git, C#, JavaScript, Linux, MySQL, HTML, CSS, PHP, Python and C++.</td></tr>
 <tr><td>Round Rock Campus</td><td>Michael Harper Tue - Thu: 10am-3pm, Fri: 10am-2pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
-<tr><td>Highland Campus</td><td>Derek Ratcliff Wed. 12 - 6pm. Firewalls and Network Security, Routers, TCP/IP, Novell NetWare</td></tr>
+<tr><td>Highland Campus</td><td>Derek Ratcliff Thu. 12 - 6pm. Firewalls and Network Security, Routers, TCP/IP, Novell NetWare</td></tr>
 <tr><td>Highland Campus</td><td>Rooster Richard Tue. 9 - 5. All programming subjects</td></tr>
 <tr><td>Highland Campus</td><td>Cory Munselle Tue. 2 = 6. MS Office, Python, C++, Data Structures, UNIX, Racket, ITNW 1335, Personal Computer Hardware, CompTIA A+, C#, Oracle Database</td></tr>
 </table>
