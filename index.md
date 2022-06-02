@@ -42,7 +42,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 </tr>
 <tr><td>Winton Haisler</td><td>Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
 <tr><td>Anthony Johnson</td><td>git, C#, JavaScript, Linux, MySQL, HTML, CSS, PHP, Python and C++.</td></tr>
-<tr><td>Cory Munselle</td><td>MS Office, Python, C++, Data Structures, UNIX, Racket, ITNW 1335, Personal Computer Hardware, CompTIA A+, C#, Oracle Database</td></tr>
+<tr><td>Cory Munselle</td><td>MS Office, Python, C++, Data Structures, UNIX, Racket, ITNW 1335, Personal Computer Hardware, CompTIA A+, C#, Oracle Database, Hadoop and Modern Programming</td></tr>
 <tr><td>Derek Ratcliff</td><td>Firewalls and Network Security, Routers, TCP/IP, Novell NetWare</td></tr>
 <tr><td>Michael Harper</td><td>Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
 <tr><td>Masood Salami</td><td>Office, Python</td></tr>
