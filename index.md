@@ -8,7 +8,7 @@ If there is a tutor available, a chat box will pop up to the right. To begin,
 enter your information. The next available tutor in your subject will be right
 with you. Please refer below to the <a href="#Table">list</a> of subjects each tutor is good with and the schedule for days and times.
 
-To use this service, you must provide your __ACC email address__, __Course Number which is 4 letters and 4 numbers only (ex. COSC 1336)__. A tutor will
+To use this service, you must provide your __ACC email address__, __Course Number which is 4 letters and 4 numbers only (ex. COSC 1301)__. A tutor will
 not be able to help you if you do not provide a valid ACC email address. 
 Due to volume of students, we do not set appointments. 
 This is a first come first serve system where the average wait time is < 3 minutes.
@@ -23,7 +23,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 ## On Campus in Person Tutoring
 
-<table id="Table" style="width: 80%">
+<table id="Table" style="width: 40%", "float: right">
 <tr>
 <td><b>Campus</b></td><td><b>Days, Times, and Subjects tutored</b></td>
 </tr>
@@ -37,7 +37,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 ## Our Tutors
 
-<table id="Table" style="width: 80%">
+<table id="Table" style="width: 40%", "float: left">
 <tr>
 <td><b>Tutor Name</b></td><td><b>Subjects tutored</b></td>
 </tr>
@@ -46,7 +46,6 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr><td>Cory Munselle</td><td>MS Office, Python, C++, Data Structures, UNIX, Racket, ITNW 1335, Personal Computer Hardware, CompTIA A+, C#, Oracle Database, Hadoop and Modern Programming</td></tr>
 <tr><td>Michael Harper</td><td>Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
 <tr><td>Masood Salami</td><td>Office, Python</td></tr>
-<tr><td>Michael Franklin</td><td>C#, C++, Java, MS Office, Html, CSS, Racket, program fundamentals, SQL, Android</td></tr>
 <tr><td>Minghua Liu</td><td>All programming subjects</td></tr>
 <tr><td>Rooster Richard</td><td>All programming subjects</td></tr>
 </table>
