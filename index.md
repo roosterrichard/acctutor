@@ -23,7 +23,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 ## On Campus in Person Tutoring
 
-<table id="Table" style="width: 40%">
+<table id="Table" style="width: 90%">
 <tr>
 <td><b>Campus</b></td><td><b>Days, Times, and Subjects tutored</b></td>
 </tr>
@@ -37,7 +37,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 ## Our Tutors
 
-<table id="Table" style="width: 40%">
+<table id="Table" style="width: 90%">
 <tr>
 <td><b>Tutor Name</b></td><td><b>Subjects tutored</b></td>
 </tr>
