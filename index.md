@@ -21,6 +21,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 <iframe src="https://calendar.google.com/calendar/b/2/embed?height=600&amp;wkst=2&amp;bgcolor=%238E24AA&amp;ctz=America%2FChicago&amp;src=Zy5hdXN0aW5jYy5lZHVfdjNtdWJqOW9iMmt1dnRvMjRqamZ0Nmk0bmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E&amp;mode=WEEK&amp;showTitle=0&amp;showNav=0&amp;showTabs=0&amp;showPrint=0&amp;showDate=0&amp;showCalendars=0" style="border-width:0" width="1040" height="600" frameborder="0" scrolling="no"></iframe>
 
+<div style="width:40%", "float: right">
 ## On Campus in Person Tutoring
 
 <table id="Table" style="width: 40%", "float: right">
@@ -34,7 +35,9 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr><td>Highland Campus</td><td>Michael Harper Wed 10am-3pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Offic</td></tr>
 <tr><td>Highland Campus</td><td>Minghua Liu Sat. 8:30 - 2:30. All programming subjects</td></tr>
 </table>
+</div>
 
+<div style="width:40%", "float: left">
 ## Our Tutors
 
 <table id="Table" style="width: 40%", "float: left">
@@ -49,3 +52,4 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr><td>Minghua Liu</td><td>All programming subjects</td></tr>
 <tr><td>Rooster Richard</td><td>All programming subjects</td></tr>
 </table>
+</div>
