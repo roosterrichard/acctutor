@@ -31,7 +31,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr><td>San Gabriel Campus</td><td>Anthony Johnson Wednesday 8-11am / Thursday 8-11am  git, C#, JavaScript, Linux, MySQL, HTML, CSS, PHP, Python and C++.</td></tr>
 <tr><td>Round Rock Campus</td><td>Michael Harper Tue, Thu, Fri: 10am-3pm, Fri: 10am-2pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
 <tr><td>Highland Campus</td><td>Rooster Richard Wed. 9 - 2pm. All programming subjects</td></tr>
-<tr><td>Highland Campus</td><td>Michael Harper Wed 10am-3pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Offic</td></tr>
+<tr><td>Highland Campus</td><td>Michael Harper Mon 10am-3pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Offic</td></tr>
 <tr><td>Highland Campus</td><td>Minghua Liu Sat. 8:30 - 2:30. All programming subjects</td></tr>
 </table>
 
