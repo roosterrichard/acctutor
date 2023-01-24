@@ -28,12 +28,12 @@ This is a first come first serve system where the average wait time is < 3 minut
 <td><b>Campus</b></td><td><b>Days, Times, and Subjects tutored</b></td>
 </tr>
 <tr><td>NorthRidge Campus</td><td>Winton Haisler Mon - Thu.  Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
-<tr><td>San Gabriel Campus</td><td>Anthony Johnson Wednesday 8-11am / Thursday 8-11am  git, C#, JavaScript, Linux, MySQL, HTML, CSS, PHP, Python and C++.</td></tr>
-<tr><td>Round Rock Campus</td><td>Michael Harper Tue, Thu, Fri: 10am-3pm, Fri: 10am-2pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
-  <tr><td>Highland Campus</td><td>Cory munselle Wed. 1 - 6pm. MS Office, Python, C++, Data Structures, UNIX, Racket, ITNW 1335, Personal Computer Hardware, CompTIA A+, C#, Oracle Database, Hadoop and Modern Programmingcts</td></tr>
+<--<tr><td>San Gabriel Campus</td><td>Anthony Johnson Wednesday 8-11am / Thursday 8-11am  git, C#, JavaScript, Linux, MySQL, HTML, CSS, PHP, Python and C++.</td></tr>
+<tr><td>Round Rock Campus</td><td>Michael Harper Tue, Thu, Fri: 10am-3pm, Fri: 10am-2pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>-->
+  <tr><td>Highland Campus</td><td>Cory munselle Sat. 12 - 5pm. MS Office, Python, C++, Data Structures, UNIX, Racket, ITNW 1335, Personal Computer Hardware, CompTIA A+, C#, Oracle Database, Hadoop and Modern Programmingcts</td></tr>
 <tr><td>Highland Campus</td><td>Rooster Richard Fri. 9 - 2pm. All programming subjects</td></tr>
 <tr><td>Highland Campus</td><td>Michael Harper Mon 10am-3pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Offic</td></tr>
-<tr><td>Highland Campus</td><td>Minghua Liu Sat. 8:30 - 2:30. All programming subjects</td></tr>
+<--<tr><td>Highland Campus</td><td>Minghua Liu Sat. 8:30 - 2:30. All programming subjects</td></tr>-->
 </table>
 
 ## Our Tutors
