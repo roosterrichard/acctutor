@@ -30,7 +30,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr><td>NorthRidge Campus</td><td>Winton Haisler Wed, Thu, Sat 12 - 6 pm.  Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
 <tr><td>Round Rock Campus</td><td>Michael Harper Mon - Thu: 10am-3pm Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
 <tr><td>Round Rock Campus</td><td>Masood Salami Mon, WED 9 - 4pm & Tue, Thu 1 - 4pm  Office, Python</td></tr>
-<tr><td>Highland Campus</td><td>Rooster Richard Fri. 9 - 2pm. All programming subjects</td></tr>
+
 
 </table>
 
@@ -46,5 +46,5 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr><td>Michael Harper</td><td>Python, C++, Unix, Oracle, Programming Fundamentals, ComOrg./Machine Language, Data Structures, MS Office</td></tr>
 <tr><td>Masood Salami</td><td>Office, Python</td></tr>
 <tr><td>Minghua Liu</td><td>All programming subjects</td></tr>
-<tr><td>Rooster Richard</td><td>All programming subjects</td></tr>
+
 </table>
