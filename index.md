@@ -27,7 +27,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr>
 <td><b>Campus</b></td><td><b>Days, Times, and Subjects tutored</b></td>
 </tr>
-<tr><td>Highland Campus</td><td>Madison Gutierrez Mon 5pm - 9pm, thur 8:30am - 12:30pm COSC 1301, COSC 1336, BCIS 1305, Networking classes</td></tr>
+<tr><td>Rio Grande Campus</td><td>John De Leon Mon-Thurs. 10am-6pm Networking classes</td></tr>
 <tr><td>Highland Campus</td><td>Winton Haisler Mon=Wed 2pm-6pm, Thu, 12 - 6 pm.  Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
 <tr><td>Round Rock Campus</td><td>Masood Salami Mon-Thur.  Office, Python</td></tr>
 
@@ -40,7 +40,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr>
 <td><b>Tutor Name</b></td><td><b>Subjects tutored</b></td>
 </tr>
-<tr><td>Madison Gutierrez</td><td>COSC 1301, COSC 1336, BCIS 1305, Networking classes</td></tr>
+<tr><td>John De Leon</td><td> Networking classes</td></tr>
 <tr><td>Winton Haisler</td><td>Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
 <tr><td>Masood Salami</td><td>Office, Python</td></tr>
 <tr><td>Minghua Liu</td><td>All programming subjects</td></tr>
