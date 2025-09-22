@@ -29,7 +29,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 </tr>
 <tr><td>Highland Campus</td><td>Madison Gutierrez Mon 5pm - 9pm, thur 8:30am - 12:30pm COSC 1301, COSC 1336, BCIS 1305, Networking classes</td></tr>
 <tr><td>Highland Campus</td><td>Winton Haisler Mon=Wed 2pm-6pm, Thu, 12 - 6 pm.  Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
-<tr><td>Round Rock Campus</td><td>Masood Salami WED 9 - 4pm  Office, Python</td></tr>
+<tr><td>Round Rock Campus</td><td>Masood Salami Mon-Thur.  Office, Python</td></tr>
 
 
 </table>
