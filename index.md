@@ -27,7 +27,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr>
 <td><b>Campus</b></td><td><b>Days, Times, and Subjects tutored</b></td>
 </tr>
-<tr><td>Rio Grande Campus</td><td>John De Leon Mon-Thurs. 10am-5pm Networking classes</td></tr>
+<tr><td>Rio Grande Campus</td><td>John De Leon Mon-Thurs. 10am-4pm Networking classes</td></tr>
 <tr><td>Highland Campus</td><td>Winton Haisler Mon=Wed 2pm-6pm, Thu, 12 - 6 pm.  Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL, Visual Basic</td></tr>
 <tr><td>Round Rock Campus</td><td>Masood Salami Mon-Thur.  Office, Python</td></tr>
 
