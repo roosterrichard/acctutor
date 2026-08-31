@@ -15,6 +15,8 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 <b>Note:</b> Be advised, not all tutors are available to screenshare so please be patient.
 
+<b>Note:</b> All in person tutors are also available online during their scheduled hours.
+
 <b>Note:</b> If the "We Are Here" widget does not appear during scheduled hours please clear cookies/cache, try another browser, or check if your antimalware is blocking the pop up.
 
 ## Tutoring Schedule
@@ -25,11 +27,105 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 <table id="Table" style="width: 90%">
 <tr>
-<td><b>Campus</b></td><td><b>Days, Times, and Subjects tutored</b></td>
-</tr>
-<tr><td>Rio Grande Campus</td><td>John De Leon Mon-Thurs. 10am-4pm Networking classes</td></tr>
-<tr><td>Highland Campus</td><td>Winton Haisler Mon-Wed 12 - 6 pm.  Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL</td></tr>
-<tr><td>Round Rock Campus</td><td>Masood Salami Mon-Thur.  Office, Python</td></tr>
+        <td><b>Campus</b></td>
+        <td><b>Days, Times, and Subjects tutored</b></td>
+    </tr>
+    <tr>
+        <td rowspan="1">Rio Grande Campus</td>
+        <td>
+            John De Leon
+            <br>
+            Mon-Thurs 10am - 4pm
+            <br>
+            Networking classes
+        </td>
+    </tr>
+    <tr>
+        <td rowspan="3">Highland Campus</td>
+        <td>
+            Winton Haisler
+            <br>
+            Mon-Wed 12pm - 6pm
+            <br>
+            Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Branden Cervantes
+            <br>
+            Thurs 8am - 3pm
+            <br>
+            Fri 8am - 4pm
+            <br>
+            C++, Python, java, data structures, excel and OOP
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Minghua Liu
+            <br>
+            Sat 8:30am - 2:30pm
+            <br>
+            All Subjects
+        </td>
+    </tr>
+    </tr>
+    <tr>
+        <td rowspan="2">Round Rock Campus</td>
+        <td>
+            Masood Salami
+            <br>
+            Mon, Wed 1pm - 4pm
+            <br>
+            Tues, Thurs 9am - 4pm
+            <br>
+            Office, Python
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Madison Gutierrez
+            <br>
+            Tues, Thurs 9am - 4pm
+            <br>
+            Fri 9am - 2pm
+            <br>
+            Python and networking
+        </td>
+    </tr>
+    <tr>
+        <td>South Austin Campus</td>
+        <td>
+            Branden Cervantes
+            <br>
+            Wed 2pm - 6pm
+            <br>
+            C++, Python, java, data structures, excel and OOP.
+        </td>
+    </tr>
+    <tr>
+        <td>Online Only</td>
+        <td>
+            Will Swinson
+            <br>
+            Mon-Fri 6am - 8am
+            4pm - 6:30pm
+            <br>
+            Programming Fundamentals
+            Object-Oriented Programming
+            Software Engineering
+            Web Development
+            Data Structures & Algorithms
+            Database Development
+            Application Development
+            API & Systems Integration
+            Version Control & Development Tools
+            Software Testing & Debugging
+            Computer Science Fundamentals
+            Advanced Programming Topics
+        </td>
+    </tr>
 
 
 </table>
@@ -38,11 +134,52 @@ This is a first come first serve system where the average wait time is < 3 minut
 
 <table id="Table" style="width: 90%">
 <tr>
-<td><b>Tutor Name</b></td><td><b>Subjects tutored</b></td>
+    <td><b>Tutor Name</b></td>
+    <td><b>Subjects tutored</b></td>
 </tr>
-<tr><td>John De Leon</td><td> Networking classes</td></tr>
-<tr><td>Winton Haisler</td><td>Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL</td></tr>
-<tr><td>Masood Salami</td><td>Office, Python</td></tr>
-<tr><td>Minghua Liu</td><td>All programming subjects</td></tr>
+<tr>
+    <td>John De Leon</td>
+    <td> Networking classes</td>
+</tr>
+<tr>
+    <td>Winton Haisler</td>
+    <td>Java, MS Office, Python, C++, C#, Data Structures, Assembly Language, Unix I, PC Assembly, Databases, Software Testing, SQL</td>
+</tr>
+<tr>
+    <td>Masood Salami</td>
+    <td>Office, Python</td>
+</tr>
+<tr>
+    <td>Minghua Liu</td>
+    <td>All programming subjects</td>
+</tr>
+<tr>
+    <td>Branden Cervantes</td>
+    <td>C++, Python, java, data structures, excel and OOP.</td>
+</tr>
+<tr>
+    <td>
+        Madison Gutierrez
+    </td>
+    <td>Python and networking</td>
+</tr>
+<tr>
+
+</tr>
+    <td>Will Swinson</td>
+    <td>    
+        Programming Fundamentals
+        Object-Oriented Programming
+        Software Engineering
+        Web Development
+        Data Structures & Algorithms
+        Database Development
+        Application Development
+        API & Systems Integration
+        Version Control & Development Tools
+        Software Testing & Debugging
+        Computer Science Fundamentals
+        Advanced Programming Topics
+    </td>
 
 </table>
