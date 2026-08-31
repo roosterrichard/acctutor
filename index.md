@@ -163,9 +163,7 @@ This is a first come first serve system where the average wait time is < 3 minut
     <td>Python and networking</td>
 </tr>
 <tr>
-
-</tr>
-    <td>Will Swinson</td>
+	<td>Will Swinson</td>
     <td>    
         Programming Fundamentals
         Object-Oriented Programming
@@ -180,5 +178,7 @@ This is a first come first serve system where the average wait time is < 3 minut
         Computer Science Fundamentals
         Advanced Programming Topics
     </td>
+</tr>
+    
 
 </table>
