@@ -70,7 +70,6 @@ This is a first come first serve system where the average wait time is < 3 minut
             All Subjects
         </td>
     </tr>
-    </tr>
     <tr>
         <td rowspan="2">Round Rock Campus</td>
         <td>
