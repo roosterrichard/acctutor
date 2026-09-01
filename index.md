@@ -90,7 +90,7 @@ This is a first come first serve system where the average wait time is < 3 minut
             <br>
             Fri 9am - 2pm
             <br>
-            Python and networking
+            Python, networking, and Office
         </td>
     </tr>
     <tr>
@@ -160,7 +160,7 @@ This is a first come first serve system where the average wait time is < 3 minut
     <td>
         Madison Gutierrez
     </td>
-    <td>Python and networking</td>
+    <td>Python, networking, and Office</td>
 </tr>
 <tr>
 	<td>Will Swinson</td>
