@@ -67,7 +67,7 @@ This is a first come first serve system where the average wait time is < 3 minut
             <br>
             Sat 8:30am - 2:30pm
             <br>
-            All Subjects
+            All Programming Subjects, Database, MySQL, and Oracle
         </td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 </tr>
 <tr>
     <td>Minghua Liu</td>
-    <td>All programming subjects</td>
+    <td>All Programming Subjects, Database, MySQL, and Oracle</td>
 </tr>
 <tr>
     <td>Branden Cervantes</td>
