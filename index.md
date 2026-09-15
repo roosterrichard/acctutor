@@ -54,9 +54,7 @@ This is a first come first serve system where the average wait time is < 3 minut
         <td>
             Branden Cervantes
             <br>
-            Mon 3:30pm - 10:00pm
-            <br>
-            Wed 3:30pm - 10:00pm
+            Mon, Wed 3:30pm - 10:00pm
             <br>
             C++, Python, java, data structures, excel and OOP
         </td>
