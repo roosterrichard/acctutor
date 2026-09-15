@@ -54,9 +54,9 @@ This is a first come first serve system where the average wait time is < 3 minut
         <td>
             Branden Cervantes
             <br>
-            Thurs 8am - 3pm
+            Mon 3:30pm - 10:00pm
             <br>
-            Fri 8am - 4pm
+            Wed 3:30pm - 10:00pm
             <br>
             C++, Python, java, data structures, excel and OOP
         </td>
@@ -91,16 +91,6 @@ This is a first come first serve system where the average wait time is < 3 minut
             Fri 9am - 2pm
             <br>
             Python, networking, and Office
-        </td>
-    </tr>
-    <tr>
-        <td>South Austin Campus</td>
-        <td>
-            Branden Cervantes
-            <br>
-            Wed 2pm - 6pm
-            <br>
-            C++, Python, java, data structures, excel and OOP.
         </td>
     </tr>
     <tr>
