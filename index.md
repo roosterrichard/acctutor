@@ -91,29 +91,6 @@ This is a first come first serve system where the average wait time is < 3 minut
             Python, networking, and Office
         </td>
     </tr>
-    <tr>
-        <td>Online Only</td>
-        <td>
-            Will Swinson
-            <br>
-            Mon-Fri 6am - 8am
-            4pm - 6:30pm
-            <br>
-            Programming Fundamentals
-            Object-Oriented Programming
-            Software Engineering
-            Web Development
-            Data Structures & Algorithms
-            Database Development
-            Application Development
-            API & Systems Integration
-            Version Control & Development Tools
-            Software Testing & Debugging
-            Computer Science Fundamentals
-            Advanced Programming Topics
-        </td>
-    </tr>
-
 
 </table>
 
@@ -149,23 +126,6 @@ This is a first come first serve system where the average wait time is < 3 minut
         Madison Gutierrez
     </td>
     <td>Python, networking, and Office</td>
-</tr>
-<tr>
-	<td>Will Swinson</td>
-    <td>    
-        Programming Fundamentals
-        Object-Oriented Programming
-        Software Engineering
-        Web Development
-        Data Structures & Algorithms
-        Database Development
-        Application Development
-        API & Systems Integration
-        Version Control & Development Tools
-        Software Testing & Debugging
-        Computer Science Fundamentals
-        Advanced Programming Topics
-    </td>
 </tr>
     
 
