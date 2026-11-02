@@ -69,7 +69,7 @@ This is a first come first serve system where the average wait time is < 3 minut
         </td>
     </tr>
     <tr>
-        <td rowspan="2">Round Rock Campus</td>
+        <td rowspan="3">Round Rock Campus</td>
         <td>
             Masood Salami
             <br>
@@ -89,6 +89,15 @@ This is a first come first serve system where the average wait time is < 3 minut
             Fri 9am - 2pm
             <br>
             Python, networking, and Office
+        </td>
+    </tr>
+     <tr>
+        <td>
+            Sumana Parven
+            <br>
+            Mon-Wed 10:30 am - 3:30 pm
+            <br>
+            Java, C++, SQL, Python, and HTML
         </td>
     </tr>
 
@@ -126,6 +135,10 @@ This is a first come first serve system where the average wait time is < 3 minut
         Madison Gutierrez
     </td>
     <td>Python, networking, and Office</td>
+</tr>
+<tr>
+    <td>Sumana Parven</td>
+    <td>Java, C++, SQL, Python, and HTML</td>
 </tr>
     
 
