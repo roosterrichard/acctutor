@@ -74,7 +74,7 @@ This is a first come first serve system where the average wait time is < 3 minut
             <br>
             Thur 9 am - 5 pm
             <br>
-            Fri 11 am - 7 pm
+            Fri 9 am - 4 pm
             <br>
             Programming Languages, Database, Web programming
         </td>
@@ -106,9 +106,9 @@ This is a first come first serve system where the average wait time is < 3 minut
         <td>
             Sumana Parven
             <br>
-            Mon-Wed 10:30 am - 3:30 pm
+            Mon, Tues, Wed 10:30 am - 3:30 pm
             <br>
-            Java, C++, SQL, Python, and HTML
+            Programming Languages (Java, C++, Python, SQL), HTML, Data Structures, OOP, Database Programming, and Networking Fundamentals.
         </td>
     </tr>
 
@@ -149,7 +149,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 </tr>
 <tr>
     <td>Sumana Parven</td>
-    <td>Java, C++, SQL, Python, and HTML</td>
+    <td>Programming Languages (Java, C++, Python, SQL), HTML, Data Structures, OOP, Database Programming, and Networking Fundamentals.</td>
 </tr>
 <tr>
     <td>Edward Kim</td>
