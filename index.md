@@ -41,7 +41,7 @@ This is a first come first serve system where the average wait time is < 3 minut
         </td>
     </tr>
     <tr>
-        <td rowspan="3">Highland Campus</td>
+        <td rowspan="4">Highland Campus</td>
         <td>
             Winton Haisler
             <br>
@@ -66,6 +66,17 @@ This is a first come first serve system where the average wait time is < 3 minut
             Sat 8:30am - 2:30pm
             <br>
             All Programming Subjects, Database, MySQL, and Oracle
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Edward Kim
+            <br>
+            Thur 9 am - 5 pm
+            <br>
+            Fri 11 am - 7 pm
+            <br>
+            Programming Languages, Database, Web programming
         </td>
     </tr>
     <tr>
@@ -139,6 +150,10 @@ This is a first come first serve system where the average wait time is < 3 minut
 <tr>
     <td>Sumana Parven</td>
     <td>Java, C++, SQL, Python, and HTML</td>
+</tr>
+<tr>
+    <td>Edward Kim</td>
+    <td>Programming Languages, Database, Web programming</td>
 </tr>
     
 
