@@ -54,16 +54,16 @@ This is a first come first serve system where the average wait time is < 3 minut
         <td>
             Branden Cervantes
             <br>
-            Mon, Wed 3:30pm - 10:00pm
+            Mon, Wed 3:30 pm - 10:00 pm
             <br>
-            C++, Python, java, data structures, excel and OOP
+            C++, Python, Java, data structures, Excel, and OOP
         </td>
     </tr>
     <tr>
         <td>
             Minghua Liu
             <br>
-            Sat 8:30am - 2:30pm
+            Sat 8:30 am - 2:30 pm
             <br>
             All Programming Subjects, Database, MySQL, and Oracle
         </td>
@@ -72,7 +72,7 @@ This is a first come first serve system where the average wait time is < 3 minut
         <td>
             Edward Kim
             <br>
-            Thur 9 am - 5 pm
+            Thurs 9:30 am - 8 pm
             <br>
             Fri 9 am - 4 pm
             <br>
@@ -84,9 +84,9 @@ This is a first come first serve system where the average wait time is < 3 minut
         <td>
             Masood Salami
             <br>
-            Mon, Wed 1pm - 4pm
+            Mon, Wed 1 pm - 4 pm
             <br>
-            Tues, Thurs 9am - 4pm
+            Tues, Thurs 9 am - 4 pm
             <br>
             Office, Python
         </td>
@@ -95,9 +95,9 @@ This is a first come first serve system where the average wait time is < 3 minut
         <td>
             Madison Gutierrez
             <br>
-            Tues, Thurs 9am - 4pm
+            Tues, Thurs 9 am - 4 pm
             <br>
-            Fri 9am - 2pm
+            Fri 9 am - 2 pm
             <br>
             Python, networking, and Office
         </td>
@@ -139,7 +139,7 @@ This is a first come first serve system where the average wait time is < 3 minut
 </tr>
 <tr>
     <td>Branden Cervantes</td>
-    <td>C++, Python, java, data structures, excel and OOP.</td>
+    <td>C++, Python, Java, data structures, Excel, and OOP.</td>
 </tr>
 <tr>
     <td>
